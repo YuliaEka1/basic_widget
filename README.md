@@ -9,10 +9,10 @@ NIM : 2041720064
 ## 1. MENYIAPKAN PROJECT
 pertama ke terminal visual studio code dengan memilih folder yang dituju dan buat projectnya
 
-![EMPTY ACTIVITY](ss/ss1.PNG)
+![EMPTY ACTIVITY](ss/1.PNG)
 
 Hasilnya 
-![EMPTY ACTIVITY](ss/ss2.PNG)
+![EMPTY ACTIVITY](ss/2.PNG)
 
 Hasil Akhir
 ![EMPTY ACTIVITY](ss/3.jpeg)
