@@ -14,6 +14,13 @@ pertama ke terminal visual studio code dengan memilih folder yang dituju dan bua
 Hasilnya 
 ![EMPTY ACTIVITY](ss/ss2.PNG)
 
+Hasil Akhir
+![EMPTY ACTIVITY](ss/3.jpeg)
+
+saat discrol 
+![EMPTY ACTIVITY](ss/4.jpeg)
+
+
 A new Flutter project.
 
 ## Getting Started

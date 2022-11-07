@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://img.a.transfermarkt.technology/portrait/big/342229-1632686046.jpg?lm=1",
+                        "https://th.bing.com/th/id/OIP.e2MB5OTJ47yDpJObQqA7IwAAAA?pid=ImgDet&w=300&h=300&rs=1",
                       ),
                     ),
                   ),
@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://img.a.transfermarkt.technology/portrait/big/28003-1631171950.jpg?lm=1",
+                        "https://th.bing.com/th/id/OIP.jKHBRVWDytTl9XLqRRQ7kAHaJ4?pid=ImgDet&rs=1",
                       ),
                     ),
                   ),
@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZodFr9lLcn_AWb19pRbeOE9Prn-jEgq9Ug&usqp=CAU",
+                        "https://cdn.images.express.co.uk/img/dynamic/67/285x395/897524_1.jpg",
                       ),
                     ),
                   ),
@@ -91,7 +91,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh6r_5_EdYrBax0BPlbcdcUybozxIZbc1yQA&usqp=CAU",
+                        "https://ichef.bbci.co.uk/images/ic/raw/p066d6v9.png",
                       ),
                     ),
                   ),
@@ -103,7 +103,7 @@ class MyApp extends StatelessWidget {
                       height: 150.0,
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9bCOP569DuHSuQrWKvrpkARKViiqKPsg6qA&usqp=CAU",
+                        "https://th.bing.com/th/id/OIP.9GpL67Q5RQx9L1BgFMDG6gHaGL?pid=ImgDet&rs=1",
                       ),
                     ),
                   ),
@@ -129,7 +129,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://img.a.transfermarkt.technology/portrait/big/342229-1632686046.jpg?lm=1",
+                        "https://th.bing.com/th/id/OIP.e2MB5OTJ47yDpJObQqA7IwAAAA?pid=ImgDet&w=300&h=300&rs=1",
                       ),
                     ),
                   ),
@@ -159,7 +159,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://img.a.transfermarkt.technology/portrait/big/28003-1631171950.jpg?lm=1",
+                        "https://th.bing.com/th/id/OIP.jKHBRVWDytTl9XLqRRQ7kAHaJ4?pid=ImgDet&rs=1",
                       ),
                     ),
                   ),
@@ -189,7 +189,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZodFr9lLcn_AWb19pRbeOE9Prn-jEgq9Ug&usqp=CAU",
+                        "https://cdn.images.express.co.uk/img/dynamic/67/285x395/897524_1.jpg",
                       ),
                     ),
                   ),
@@ -200,7 +200,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     width: 300.0,
                     child: Text(
-                      "3. Mats Hummels",
+                      "3. Cristiano Ronaldo",
                       style: TextStyle(
                         color: Color(0xffffffff),
                       ),
@@ -219,7 +219,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh6r_5_EdYrBax0BPlbcdcUybozxIZbc1yQA&usqp=CAU",
+                        "https://ichef.bbci.co.uk/images/ic/raw/p066d6v9.png",
                       ),
                     ),
                   ),
@@ -230,7 +230,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     width: 300.0,
                     child: Text(
-                      "4. Marcus Rashford",
+                      "4. Mohamed Salah",
                       style: TextStyle(
                         color: Color(0xffffffff),
                       ),
@@ -249,7 +249,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     child: Image(
                       image: NetworkImage(
-                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9bCOP569DuHSuQrWKvrpkARKViiqKPsg6qA&usqp=CAU",
+                        "https://th.bing.com/th/id/OIP.9GpL67Q5RQx9L1BgFMDG6gHaGL?pid=ImgDet&rs=1",
                       ),
                     ),
                   ),
@@ -260,7 +260,7 @@ class MyApp extends StatelessWidget {
                     height: 120.0,
                     width: 300.0,
                     child: Text(
-                      "5. Cristiano Ronaldo",
+                      "5. Mesut Ozil",
                       style: TextStyle(
                         color: Color(0xffffffff),
                       ),
