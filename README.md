@@ -7,14 +7,16 @@ Kelas : TI 3C
 NIM : 2041720064
 
 ## 1. MENYIAPKAN PROJECT
-pertama ke terminal visual studio code dengan memilih folder yang dituju dan buat projectnya
+## Pertama ke terminal visual studio code dengan memilih folder yang dituju dan buat projectnya
 
-![EMPTY ACTIVITY](ss/1.PNG)
+![EMPTY ACTIVITY](ss/ss1.jpeg)
 
-Hasilnya 
+## Tampilan File main.dart
+ 
 ![EMPTY ACTIVITY](ss/ss2.jpg)
 
-Hasil Akhir
+## Hasil Akhir
+
 ![EMPTY ACTIVITY](ss/3.jpeg)
 
 ## Saat discrol 
