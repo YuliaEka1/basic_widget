@@ -12,12 +12,14 @@ pertama ke terminal visual studio code dengan memilih folder yang dituju dan bua
 ![EMPTY ACTIVITY](ss/1.PNG)
 
 Hasilnya 
-![EMPTY ACTIVITY](ss/2.PNG)
+![EMPTY ACTIVITY](ss/ss2.jpg)
 
 Hasil Akhir
 ![EMPTY ACTIVITY](ss/3.jpeg)
 
-saat discrol 
+## Saat discrol 
+
+
 ![EMPTY ACTIVITY](ss/4.jpeg)
 
 
